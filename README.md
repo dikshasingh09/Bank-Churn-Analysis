@@ -6,7 +6,7 @@ Collaboration within the team is facilitated through workspace creation, report 
 The data analyst's role encompasses understanding customer churn dynamics, leveraging data insights for informed decision-making, and delivering actionable recommendations to optimize business performance.
 
 # Tools Used
-Python, Excel, Power bi
+Python, SQL, Excel, Power bi
 
 # The analysis of the dataset reveals the following insights:
  - Total Customers: There are 10,000 customers, with 2,037 customers having churned, resulting in a churn rate of 20%.
