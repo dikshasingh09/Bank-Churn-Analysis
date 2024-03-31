@@ -5,6 +5,9 @@ The data lifecycle for a data analyst involves stages such as requirement gather
 Collaboration within the team is facilitated through workspace creation, report publishing, data refresh scheduling, and sharing functionalities.
 The data analyst's role encompasses understanding customer churn dynamics, leveraging data insights for informed decision-making, and delivering actionable recommendations to optimize business performance.
 
+# Tools Used
+Python, Excel, Power bi
+
 # The analysis of the dataset reveals the following insights:
  - Total Customers: There are 10,000 customers, with 2,037 customers having churned, resulting in a churn rate of 20%.
  - Customer Distribution: France has the highest number of customers, accounting for 50.14% of the total customer base.
